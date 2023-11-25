@@ -1,5 +1,6 @@
 # updated as needed
 # 13-17 added by church logs for new domains
+# 19-22
 sdk.split.io
 usaa.demdex.net
 tags.tiqcdn.com
@@ -15,3 +16,35 @@ capcutapi.com
 quodverum.com
 shineexecutivecoaching.com
 theparkcoc.org
+*.vrbo.io
+*.nxtsports.com
+*.intuit.com
+*.jenkstrojanlacrosse.com
+*.pixellot.link
+*.intuit.net
+*.intuitcdn.net
+*.api2.branch.io
+*.artifact.news
+*.api-cloudfront.life360.com
+*.jenkscommunityed.com
+*.js.media-lab.ai
+*.grafana.org
+*.pubads.g.doubleclick.net
+*.warbyparker.sng.link
+*.magicsw.com
+*.tmetrix.my.chick-fil-a.com
+*.tmobile.demdex.net
+*.a14738960062.cdn.optimizely.com
+*.customerexperience.t-mobile.com
+*.tmobile-mkt-prod1-lb.campaign.adobe.com
+*.teamsnap.com
+*.assets.adobedtm.com
+*.co1.qualtrics.com
+*.liveapi.yext.com
+*.nativesdks.mparticle.com
+*.datacloud-us-east-1.tealiumiq.com
+*.service.maxymiser.net
+*.datacloud.tealiumiq.com
+*.tags.tiqcdn.com
+*.usaa.demdex.net
+*.sdk.split.io
